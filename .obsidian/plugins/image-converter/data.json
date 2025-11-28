@@ -15,7 +15,7 @@
     {
       "name": "blog_images",
       "type": "CUSTOM",
-      "customTemplate": "D:\\teeeekay95-github-blog\\teeeekay95.github.io\\images\\{imagename}_{date:YYYYMMDD}.{filetype}"
+      "customTemplate": "images/{imagename}_{date:YYYYMMDD}.{filetype}"
     }
   ],
   "selectedFolderPreset": "blog_images",

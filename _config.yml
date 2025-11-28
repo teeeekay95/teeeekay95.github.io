@@ -18,7 +18,7 @@ minimal_mistakes_skin    : "dark" # "default", "air", "aqua", "contrast", "dirt"
 locale                   : "ko-KR"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
 title                    : "티케이의 소소한 일상"
-title_separator          : "-"
+title_separator          : "|"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "티케이"
 description              : "All about Data Science / Analytics"
@@ -28,7 +28,7 @@ repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-m
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
-breadcrumbs              : # true, false (default)
+breadcrumbs              : true # true, false (default)
 words_per_minute         : 200
 enable_copy_code_button  : # true, false (default)
 copyright                : # "copyright" name, defaults to site.title
@@ -116,8 +116,8 @@ author:
   name             : "티케이"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "세상을 바꿀 데이터의 힘을 믿습니다."
-  location         : "Somewhere"
-  email            :
+  location         : "South Korea"
+  email            : "sdc02089@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"

@@ -46,7 +46,7 @@
     "folder": false,
     "filename": false
   },
-  "subfolderTemplate": "",
+  "subfolderTemplate": "images",
   "conversionPresets": [
     {
       "name": "None",

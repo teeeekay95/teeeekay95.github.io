@@ -4,21 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "2dfe31715ebeaf14",
+        "id": "438a99f83386bf56",
         "type": "tabs",
         "children": [
           {
-            "id": "0a5f958bce9a2881",
+            "id": "d9d3ab26bf01ec04",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "_posts/2025-11-28-first.md",
-                "mode": "source",
-                "source": false
+                "aFile": "2025-11-28.md",
+                "bFile": "2025-11-28.md",
+                "aRef": "HEAD",
+                "bRef": ""
               },
-              "icon": "lucide-file",
-              "title": "2025-11-28-first"
+              "icon": "diff",
+              "title": "Diff: 2025-11-28"
             }
           }
         ]
@@ -94,7 +95,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2025-11-28-first.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "2025-11-28-first 의 백링크"
+              "title": "백링크"
             }
           },
           {
@@ -113,12 +113,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2025-11-28-first.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "2025-11-28-first 의 나가는 링크"
+              "title": "나가는 링크"
             }
           },
           {
@@ -156,13 +155,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2025-11-28-first.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2025-11-28-first 의 개요"
+              "title": "개요"
             }
           },
           {
@@ -180,7 +178,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 360.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -194,11 +192,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0a5f958bce9a2881",
+  "active": "d9d3ab26bf01ec04",
   "lastOpenFiles": [
+    "2025-11-28.md",
+    "_posts/2025-11-28-first.md",
     "images/20251119_132243-1.jpg",
     "images/20251119_132243.jpg",
-    "_posts/2025-11-28-first.md",
     "images",
     "images",
     "새 폴더",

@@ -15,7 +15,7 @@
     {
       "name": "blog_images",
       "type": "CUSTOM",
-      "customTemplate": "images/{imagename}_{date:YYYYMMDD}.{filetype}"
+      "customTemplate": "images"
     }
   ],
   "selectedFolderPreset": "blog_images",

@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "7de0b370cf473b5f",
@@ -180,7 +181,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 360.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -196,6 +197,16 @@
   },
   "active": "f509ef905be9397b",
   "lastOpenFiles": [
+    "_site/search/index.html",
+    "_site/search",
+    "_site/_pages/search/index.html",
+    "_site/_pages/search",
+    "_pages/search.md",
+    "_site/_pages/serach/index.html",
+    "_site/_pages/serach",
+    "_site/_pages/serach.md",
+    "_site/_pages",
+    "_pages/serach.md",
     "_site/googlecf98b35f6bb50734.html",
     "googlecf98b35f6bb50734.html",
     "미확인 234975.crdownload",
@@ -207,21 +218,14 @@
     "assets/images/posts/page_not_found.webp",
     "_site/404.html",
     "_site/_pages/404.md",
-    "_site/_pages",
     "assets/images/posts/20251018_165540.webp",
     "_site/assets/images/posts/20251018_165540.webp",
     "assets/images/posts/20251014_152750.webp",
     "_site/assets/images/posts/20251014_152750.webp",
-    "_site/assets/images/posts",
-    "_site/assets/images",
     "_site/assets/images/posts/e210f6738129da48103f5d2e1d065076_MD5.jpg",
     "_site/assets/images/posts/20251014_152750.jpg",
     "assets/images/posts/e210f6738129da48103f5d2e1d065076_MD5.jpg",
     "assets/images/posts/e210f6738129da48103f5d2e1d065076_MD5.jpg",
-    "_site/assets/images/posts/2025-11-28-first",
-    "assets/images/posts/2025-11-28-first",
-    "assets/images/posts",
-    "_posts/images",
     "2025-11-28.md",
     "CHANGELOG.md"
   ]

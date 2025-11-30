@@ -114,7 +114,7 @@ analytics:
 # Site Author
 author:
   name             : "티케이"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/me_in_jungfrau.jpg"
   bio              : "세상을 바꿀 데이터의 힘을 믿습니다."
   location         : "South Korea"
   # email            : "sdc02089@gmail.com"
@@ -326,3 +326,7 @@ defaults:
       share: true
       related: true
       show_date: true
+      toc: true
+      toc_sticky: true
+      toc_label: 목차
+      toc_icon: "fa-solid fa-list"

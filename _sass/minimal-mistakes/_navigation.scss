@@ -28,11 +28,13 @@
 
     @include breakpoint($large) {
       float: inline-end;
-      width: calc(100% - #{$right-sidebar-width-narrow});
+      width: calc(100%);
+      // width: calc(100% - #{$right-sidebar-width-narrow});
     }
 
     @include breakpoint($x-large) {
-      width: calc(100% - #{$right-sidebar-width});
+      width: calc(100%);
+      // width: calc(100% - #{$right-sidebar-width});
     }
   }
 
@@ -502,7 +504,7 @@
      ========================================================================== */
 
 .toc {
-  font-family: $sans-serif-narrow;
+  font-family: $toc-font;
   color: $gray;
   background-color: $background-color;
   border: 1px solid $border-color;
@@ -513,14 +515,14 @@
   .nav__title {
     color: #fff;
     font-size: $type-size-6;
-    background: $primary-color;
+    background: $toc-color;
     border-start-start-radius: $border-radius;
     border-start-end-radius: $border-radius;
   }
 
   // Scrollspy marks toc items as .active when they are in focus
   .active a {
-    @include yiq-contrasted($active-color);
+    @include yiq-contrasted($toc-active-color);
   }
 }
 

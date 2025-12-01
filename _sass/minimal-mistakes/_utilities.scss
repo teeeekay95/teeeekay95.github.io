@@ -574,6 +574,9 @@ pre {
 }
 
 .img-size-control {
-  width: 500px;
-  object-fit: cover;
+  max-width: 500px;
+  max-height: 5000px;
+  width: auto;
+  height: auto;
+  object-fit: contain;
 }

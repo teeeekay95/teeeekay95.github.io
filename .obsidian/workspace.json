@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 294.5,
-    "collapsed": true
+    "width": 294.5
   },
   "right": {
     "id": "7de0b370cf473b5f",
@@ -195,8 +194,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c880614187199d62",
+  "active": "9372f24650c702c8",
   "lastOpenFiles": [
+    "_site/assets/images/20251014_152750/20251014_152750.webp",
+    "_site/assets/images/20251014_152750",
+    "assets/images/20251014_152750/20251014_152750.webp",
+    "assets/images/20251014_152750",
     "_site/assets/katex/fonts/KaTeX_Typewriter-Regular.woff2",
     "_site/assets/katex/fonts/KaTeX_Typewriter-Regular.woff",
     "_site/assets/katex/fonts/KaTeX_Typewriter-Regular.ttf",
@@ -205,9 +208,6 @@
     "_site/assets/katex/fonts/KaTeX_Size4-Regular.ttf",
     "_site/assets/katex/fonts/KaTeX_Size3-Regular.woff2",
     "_site/assets/katex/fonts/KaTeX_Size3-Regular.woff",
-    "_site/assets/katex/fonts/KaTeX_Size3-Regular.ttf",
-    "_site/assets/katex/fonts/KaTeX_Size2-Regular.woff2",
-    "_site/assets/katex/fonts/KaTeX_Size2-Regular.woff",
     "_site/assets/katex/README.md",
     "assets/katex/README.md",
     "assets/images/20251014_152044.jpg",
@@ -227,7 +227,6 @@
     "_pages/tag-archive.md",
     "_site/assets/images/posts/page_not_found.webp",
     "_site/_pages/404.md",
-    "_site/assets/images/posts/20251018_165540.webp",
     "2025-11-28.md",
     "CHANGELOG.md"
   ]

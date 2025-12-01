@@ -15,10 +15,10 @@
     {
       "name": "images",
       "type": "CUSTOM",
-      "customTemplate": "assets/images/posts/{notename}"
+      "customTemplate": "assets/images/{imagename}"
     }
   ],
-  "selectedFolderPreset": "Default (Obsidian setting)",
+  "selectedFolderPreset": "images",
   "filenamePresets": [
     {
       "name": "Keep original name",
@@ -51,7 +51,7 @@
     "folder": false,
     "filename": false
   },
-  "subfolderTemplate": "images",
+  "subfolderTemplate": "{grandparentfolder}/",
   "conversionPresets": [
     {
       "name": "None",

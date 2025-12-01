@@ -2,6 +2,6 @@
   "promptDelete": false,
   "useMarkdownLinks": true,
   "newLinkFormat": "relative",
-  "attachmentFolderPath": "assets/images/posts",
+  "attachmentFolderPath": "assets/images",
   "alwaysUpdateLinks": true
 }

@@ -74,7 +74,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 294.5
+    "width": 294.5,
+    "collapsed": true
   },
   "right": {
     "id": "7de0b370cf473b5f",
@@ -190,15 +191,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e3dbf27ddbf89d50",
+  "active": "9372f24650c702c8",
   "lastOpenFiles": [
+    "_includes/mathjax-support.html",
+    "_includes/미확인 176554.crdownload",
+    "assets/images/20251014_152044.jpg",
     "_site/coding/first/index.html",
     "_site/coding/first",
     "_site/coding",
     "_posts/2025-11-28-first.md",
     "_posts",
     "_site/assets/images/20251014_152044.jpg",
-    "assets/images/20251014_152044.jpg",
     "_site/assets/images/20251014_152044.webp",
     "_pages/404.md",
     "assets/images/page_not_found.webp",
@@ -212,9 +215,7 @@
     "_site/_pages/search",
     "_pages/search.md",
     "_site/_pages/serach/index.html",
-    "_site/_pages/serach",
     "_site/_pages/serach.md",
-    "_site/_pages",
     "_pages/serach.md",
     "_pages/category-archive.md",
     "_pages/tag-archive.md",

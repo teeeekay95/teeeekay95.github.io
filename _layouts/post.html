@@ -8,6 +8,11 @@ layout: default
   {{ content }}
 </div>
 
+<!-- 댓글 영역 추가 (comments: false 설정 시 숨김 가능) -->
+{% unless page.comments == false %}
+  {% include comments.html %}
+{% endunless %}
+
 <!-- 태그 표시 영역 -->
 {% if page.tags and page.tags.size > 0 %}
   <div class="post-tags" style="margin-bottom: 1.5rem; font-size: 0.85rem; color: #7a7a7a;">
